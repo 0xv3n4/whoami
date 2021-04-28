@@ -38,8 +38,7 @@
 
 ### 🎨Design & GUI Tools
 
-![WPF](https://img.shields.io/badge/WPF-black.svg?&style=flat&logoColor=purple&color=blue)
-![UWP](https://img.shields.io/badge/UWP-black.svg?&style=flat&logoColor=purple&color=darkblue)
+
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-black.svg?&style=flat&logoColor=purple&color=orange)
 ![UIKit](https://img.shields.io/badge/UIKit-black.svg?&style=flat&logoColor=purple&color=yellow)
 ![QT](https://img.shields.io/badge/Qt-green.svg?&style=flat&logo=qt&logoColor=green&labelColor=FFFFFF)
