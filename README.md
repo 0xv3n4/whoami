@@ -1,6 +1,6 @@
 <h1 align = "center"> Hello there 👋 I'm Boran.</h1>
 
-<p align="center"> Application Developer 📱 | Software Engineer 💻 <br>(Nominee)</p>
+<p align="center">  Software Engineer 💻 <br>(Nominee)</p>
 
 
    📃 I’m currently undergraduate student at Kocaeli University in Turkey.<br> I'm curious about making apps for mobile , desktop and more... 
