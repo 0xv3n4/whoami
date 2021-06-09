@@ -3,7 +3,9 @@
 <p align="center">  Software Engineer 💻 <br>(Nominee)</p>
 
 
-   📃 I’m currently undergraduate student at Kocaeli University in Turkey.<br> I'm curious about making apps for mobile , desktop and more... 
+ 
+
+ 📃 I’m currently undergraduate student at Kocaeli University in Turkey.<br> I'm curious about making apps for mobile , desktop and games.
    
    
  
@@ -11,7 +13,7 @@
 
 
 
-![GitHub User's stars](https://img.shields.io/github/stars/boranakova?affiliations=OWNER&style=social)  [![Git](https://img.shields.io/github/followers/boranakova.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/boranakova?tab=followers) ![Count](https://komarev.com/ghpvc/?username=boranakova&color=brightgreen)
+![GitHub User's stars](https://img.shields.io/github/stars/boranakova?affiliations=OWNER&style=social)  [![Git](https://img.shields.io/github/followers/boranakova.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/boranakova?tab=followers) ![Count](https://komarev.com/ghpvc/?username=boranakova&color=brightgreen)  </p>
 
 
 
