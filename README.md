@@ -5,7 +5,7 @@
 
  
 
- 📃 I’m currently undergraduate student at Kocaeli University in Turkey.<br> I'm curious about making apps for mobile , desktop and games.
+<p align="center">  📃 I’m currently undergraduate student at Kocaeli University in Turkey.<br> I'm curious about making apps for mobile , desktop and games.</p>
    
    
  
