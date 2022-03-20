@@ -5,7 +5,7 @@
 
  
 
-<p align="center">  📃 I’m currently undergraduate student at Kocaeli University in Turkey. </p>
+<p align="center">  📃 I design , develop and create tech solutions for marvelous workflows like web,game, ui and more. </p>
    
    
  
@@ -23,27 +23,25 @@
 
 ### 🚀 IDEs
 
-![VS](https://img.shields.io/badge/Microsoft_Visual_Studio-white.svg?&style=flat&logo=visual-studio&logoColor=purple)
-![XCode](https://img.shields.io/badge/XCode-white.svg?&style=flat&logo=xcode&logoColor=blue)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-white.svg?&style=flat&logo=intellij&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
 ### ⛽ Programming Languages 
 
-![C#](https://img.shields.io/badge/C%23-black.svg?&style=flat&logo=c-sharp&logoColor=purple&labelColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-black.svg?&style=flat&logo=java&logoColor=DC143C&labelColor=FFFFFF)
-![Swift](https://img.shields.io/badge/Swift-black.svg?&style=flat&logo=swift&logoColor=FFFFFF&labelColor=FF8B3D)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### ☁️ Database Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-Workbench-black.svg?&style=flat&logo=mysql&logoColor=black&labelColor=blue&color=orange)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🎨Design & GUI Tools
+### Dev Tools
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-
-![SwiftUI](https://img.shields.io/badge/SwiftUI-black.svg?&style=flat&logoColor=purple&color=orange)
-![UIKit](https://img.shields.io/badge/UIKit-black.svg?&style=flat&logoColor=purple&color=yellow)
-![Swing](https://img.shields.io/badge/Swing-DC143C.svg?&style=flat&logo=java&logoColor=DC143C&labelColor=FFFFFF)
 
 
 ### 💬 How to reach me ? 
