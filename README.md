@@ -5,7 +5,7 @@
 
  
 
-<p align="center">  📃 I design , develop and create tech solutions for mobile workflows. </p>
+<p align="center">  📃 I design , develop and create tech solutions . </p>
    
  
  
