@@ -1,8 +1,5 @@
 <h1 align = "center"> Hello there 👋 I'm Boran.</h1>
 
-<p align="center">  Software Engineer 💻 <br>(Nominee)</p>
-
-
  
 
 <p align="center">  📃 I design , develop and create tech solutions . </p>
