@@ -8,7 +8,13 @@
  
 
 
-![GitHub User's stars](https://img.shields.io/github/stars/boranakova?affiliations=OWNER&style=social)  [![Git](https://img.shields.io/github/followers/boranakova.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/boranakova?tab=followers) ![Count](https://komarev.com/ghpvc/?username=boranakova&color=brightgreen)  </p>
+![GitHub User's stars](https://img.shields.io/github/stars/boranakova?affiliations=OWNER&style=social)  [![Git](https://img.shields.io/github/followers/boranakova.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/boranakova?tab=followers) ![Count](https://komarev.com/ghpvc/?username=boranakova&color=brightgreen)
+<br></br>
+![Boran's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=boranakova&theme=blue-green)
+</p>
+
+
+
 
 
 
@@ -53,6 +59,8 @@ You can find me on below accounts!<br>
  [![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/V3N4C41N)
  
  [![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/407982)
+
+ [![PicoCTF](https://forthebadge.com/images/badges/pico)](https://play.picoctf.org/users/sangu1n1us)
  
  
  
