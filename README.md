@@ -1,8 +1,8 @@
-<h1 align = "center"> Hello there 👋 I'm Boran.</h1>
+<h1 align = "center"> Hi there 👋 I'm Boran.</h1>
 
  
 
-<p align="center">  📃 I solve tech problems . </p>
+<p align="center">  📃 Cyber Security Enthusiast </p>
    
  
  
@@ -52,15 +52,13 @@ You can find me on below accounts!<br>
 
  [![Li](https://shields.io/badge/boranakova-follow--me?logo=linkedin&style=for-the-badge&color=blue)](https://www.linkedin.com/in/boran-akova-328477171/)
  
- [![Li](https://shields.io/badge/boranakova-follow--me?logo=twitter&style=for-the-badge&color=cyan)](https://twitter.com/boranakv)
- 
  [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0152b595dcdf10b093)
  
- [![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/V3N4C41N)
+ [![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/v3n4)
  
- [![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/407982)
-
- [![PicoCTF](https://forthebadge.com/images/badges/pico)](https://play.picoctf.org/users/sangu1n1us)
+ [![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1802631)
+ 
+ [![PicoCTF](https://forthebadge.com/images/badges/pico)](https://play.picoctf.org/users/v3n4)
  
  
  
