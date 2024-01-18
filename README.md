@@ -10,7 +10,7 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/boranakova?affiliations=OWNER&style=social)  [![Git](https://img.shields.io/github/followers/boranakova.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/boranakova?tab=followers) ![Count](https://komarev.com/ghpvc/?username=boranakova&color=brightgreen)
 <br></br>
-![Boran's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=boranakova&theme=blue-green)
+
 </p>
 
 
