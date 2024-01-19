@@ -2,8 +2,8 @@
 
  
 
-<p align="center">  📃 Cyber Security Enthusiast </p>
-   
+<p align="center">  📃 Cyber Security Enthusiast  </p>
+<p align="center"> I'm currently working as InfoSec Engineer at Pazarama </p>
  
  
 
@@ -28,7 +28,8 @@ You can find me on below accounts!<br>
  
  [![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1802631)
  
- [![PicoCTF](https://forthebadge.com/images/badges/pico)](https://play.picoctf.org/users/v3n4)
  
- 
+ ### :closed_book:  My Certs 
+![asdasd123123](https://github.com/0xv3n4/whoami/assets/56170942/8f6b6381-5037-41a1-9397-fa0febb48370)
+
 
